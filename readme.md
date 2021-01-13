@@ -11,3 +11,11 @@ Underline 1
 
 Underline 2
 ============
+
+- Letra *italica* primera forma.
+- Letra _italica_ segunda forma.
+
+- Formato **bold** primera forma.
+- Formato __bold__ segunda forma.
+
+- Formato ~~tachado~~.
